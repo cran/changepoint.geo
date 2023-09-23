@@ -1,11 +1,12 @@
-d0a7cb9c4bd528e616395a7ba80fbe79 *DESCRIPTION
+46d79341e33e1da46141d3e43e2ed1b9 *DESCRIPTION
 b55cb219a0cef3f340ce2af9336a052f *NAMESPACE
+0b00cb21ee678d9cb7324f18885897c2 *NEWS
 c6c093696ea795b712c74677ee14f93b *R/GeometricMappings.R
 3a9e97894cb7580c41b5299d76cecacc *R/class_input.R
 804829f50d5d719d83b8d628b2f66561 *R/cpt.geo.class.R
 553f64d4e1553e045cb9e57003a30fea *R/geomcp.R
 23fdcb8b49d2041fbebf7049e83b6688 *R/zzz.R
-5e9e3e99ad3107c0c6f1c321788fbcbb *build/partial.rdb
+5af8db0ba9c87b319fe5b4a8ad58e905 *build/partial.rdb
 a2bf46bf25a071ee80fc61498f396bf0 *inst/REFERENCES.bib
 2748b80ead530e93730fcdb9255ef471 *man/ang.cpts-methods.Rd
 d9d619f9ae97f50d14256b5dc703b5b7 *man/ang.cpts.Rd
