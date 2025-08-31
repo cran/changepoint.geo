@@ -29,7 +29,7 @@ pen.value(object) <- value
 }
 
 \seealso{
-	\code{\link{pen.value<--methods}}
+	\code{\linkS4class{cpt.geo}}
 }
 \examples{
 x <- new('cpt.geo')

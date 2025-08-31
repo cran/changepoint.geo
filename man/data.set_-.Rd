@@ -29,7 +29,7 @@ data.set(object) <- value
 }
 
 \seealso{
-	\code{\link{data.set<--methods}}
+	\code{\linkS4class{cpt.geo}}
 }
 \examples{
 x <- new('cpt.geo')

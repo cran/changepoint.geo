@@ -1,8 +1,8 @@
 Package: changepoint.geo
 Type: Package
 Title: Geometrically Inspired Multivariate Changepoint Detection
-Version: 1.0.2
-Date: 2023-09-23
+Version: 1.0.3
+Date: 2025-08-12
 Authors@R: c(person("Thomas","Grundy",role=c("aut")),
 		person("Rebecca","Killick",role=c("cre","ths"),email="r.killick@lancaster.ac.uk"))
 Maintainer: Rebecca Killick <r.killick@lancaster.ac.uk>
@@ -15,8 +15,8 @@ Suggests: testthat, MASS
 License: GPL
 LazyLoad: yes
 NeedsCompilation: no
-Packaged: 2023-09-23 21:32:00 UTC; killick
 Author: Thomas Grundy [aut],
   Rebecca Killick [cre, ths]
 Repository: CRAN
-Date/Publication: 2023-09-23 22:50:09 UTC
+Packaged: 2025-08-31 20:29:45 UTC; killick
+Date/Publication: 2025-08-31 20:50:02 UTC
